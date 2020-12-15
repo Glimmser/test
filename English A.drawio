@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T14:04:36.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5IGKnWNunQrCM2pJW7-d" version="14.0.1" type="github"><diagram id="bQ1npzmXao6sceOYmoz7" name="Page-1">3Zhtb5swEMc/DdL2IhKYQNKXbdqtkxZNFZM29Z2BC1gxNrVNHvrpZwcDIUmVTVPoMilKzP/O5ny/O5PE8WfF5rPAZT7nKVAHuenG8e8dhLwpQo55uenWKl5olUyQ1GqdEJFXsKJr1YqkIHuOinOqSNkXE84YJKqnYSH4uu+24LR/1xJn9o5uJ0QJpnDk9oOkKq/VKZp0+iOQLFft/m5qS4EbZ7uwzHHK13ur+g+OPxOcq3pUbGZATfaavNTzPr1hbQMTwNTvTCjKr3CL6ZfiGZbTV/zz8dvcH9lVVphWdsMOCqle7y7XpjAzo0ZZcH0jnUKc1K7hS2Viv5vxgiTaEGEm9cc86kxm2w3SRvP2zf07xMZfbWl/QoyTZSZ4xdJRwikXjn+r/UQWf0BB4Jhdz/T7wfijudgFYMIe1VGYeWhcbo4j+M5LvYedg8wrpXQIyI0r2USm0xofRqu1OiVH8n7uUG9PaLcPMEg8bV7nREFU1hld6xYyiVcFtea2ZMxWMoqltGO5BJXk9sIiBKFg82ZtdBWnexV4AUpstYudMGr7zfbpKLDX667oUaPlewUfWg3bPsvatbtS1ANbjX9QmejSlVkvEZXcTCVsBVKRDCvC2RnAsbgg8kvAHL83S38YlvcgSabpuS+VgamfCJgIqI8EwhJamScJck123KdKZ1O7yKuHjfqwPf8E7ckJ2pNL0R4PQ5szSpg5pmUlVqDDDnFh8stiWZ4/pf95rv64z/VUF3s3Q3ZxMBDXxcKCJUyBWBFYXzvL4DxK5A6JMhwG5VP/HHZTrPC1szzsSx+9d19OhoG50j/EeAfxvzpsg/NMh23Q5hvcpaGWgicgjRWzdPeO6VbCtfNEB0DHJ74UtZD/Eqi+7H7E72x7/4X4D78A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-15T14:18:44.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="my2qj191iayUHJ6YXGy1" version="14.0.1" type="github">
+  <diagram id="bQ1npzmXao6sceOYmoz7" name="Page-1">
+    <mxGraphModel dx="2222" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mpLeAalImZek8zaXHOM3-1" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 24px&quot;&gt;Topic: shuttle bus&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="-50" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpLeAalImZek8zaXHOM3-2" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Spot investigation&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="40" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpLeAalImZek8zaXHOM3-3" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Design questionnaire, includes 10 Quentions&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="130" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mpLeAalImZek8zaXHOM3-4" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;online survey&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="240" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpLeAalImZek8zaXHOM3-5" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;offline interview&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="240" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpLeAalImZek8zaXHOM3-6" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Questionnaire data&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="320" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpLeAalImZek8zaXHOM3-7" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;video data&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpLeAalImZek8zaXHOM3-10" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;process, plot, and analyse&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="430" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QcO9CsuUAXYOq_QOPMuR-1" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Statistic figures&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="530" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QcO9CsuUAXYOq_QOPMuR-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="640" as="sourcePoint" />
+            <mxPoint x="-110" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcO9CsuUAXYOq_QOPMuR-3" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="QcO9CsuUAXYOq_QOPMuR-2">
+          <mxGeometry width="50" height="34" relative="1" as="geometry">
+            <mxPoint x="-30" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
